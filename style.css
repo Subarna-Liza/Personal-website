@@ -1,0 +1,83 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+.half_width h1{
+    font-size: 30px;
+    color: rgb(226, 11, 136);
+
+}
+.half_width{
+    width: 30%;
+    padding-left: 5%;
+    margin-left: 10%;
+    float: left;
+    
+    
+}
+.half_width img{
+    width: 100%;
+}
+.introduction_area{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 500px;
+   
+}
+.button_design{
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 7px;
+    background: linear-gradient(blue,rgb(179, 6, 170));
+    color: white;
+    
+}
+.pic_div{
+    align-items: center;
+}
+.bio_div{
+    align-items: center;
+}
+.bio_area{
+    background-image: url(images/biography-bg.png);
+}
+.latest_work_area h1{
+    text-align: center;
+}
+.latest_work_area{
+    background-image: url(images/latest-work-bg.png);
+}
+
+.latest_div{
+    width: 25%;
+    padding-left: 2%;
+    margin-left: 4%;
+    float: left;
+}
+.latest_div img{
+    width: 100%;
+}
+.contact_section{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+}
+.contact_bio{
+    height: 20px;
+    width: 400px;
+    text-align: center;
+    margin-left: 480px;
+    margin-bottom: 100px;
+}
+.contact_div{
+    height: 10px;
+    width: 300px;
+    padding: 5%;
+    text-align: center;
+    margin-left: 450px;
+    background-color: violet;
+    border-radius: 20px;
+
+}
